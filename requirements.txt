@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pytesseract
+python-dotenv
+pdf2image
+opencv-python
+PyMuPDF
+groq
+chromadb
+sentence-transformers
+qdrant-client
